@@ -1,2 +1,2 @@
 # Data-Science
-This repositories saves all the things which i did while starting in the field of data science
+This repositories saves all the capstone projects which I did while doing data science
